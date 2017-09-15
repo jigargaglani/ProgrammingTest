@@ -13,4 +13,4 @@ Created a UnitOfWork specific to this application with DBContext that connects t
 Web API controller (StudentController) consists of basic Http rest methods to get list of students and create new student
 The front end is binded with the server using Angular JS 1.6
 
-#### P.S. - The repository didn't fetch unit test project will attach it in the email ####
+#### P.S. - The repository didn't fetch unit test project. Will attach it in the email ####
