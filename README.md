@@ -1,9 +1,10 @@
 # ProgrammingTest
 
-Design Pattern - reposotory & unit of work pattern.
-ORM - Entity Framework Code first
-Angular Js 1.6 version
-Web API Asp.Net 4.6
+* Design Pattern - reposotory & unit of work pattern.
+* ORM - Entity Framework Code first
+* Angular Js 1.6 version
+* Web API Asp.Net 4.6
+* Unit test project using Moq
 
 I opted for repository pattern because it is very helpful in keeping the application decoupled and even if we want to migrate from current ORM it is easier.
 
