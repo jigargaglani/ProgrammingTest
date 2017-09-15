@@ -2,7 +2,7 @@
 
 * Design Pattern - reposotory & unit of work pattern.
 * ORM - Entity Framework Code first
-* Angular Js 1.6 version
+* Angular Js 1.6 version (have no prior experience with Angular so did some research and learning before applying it)
 * Web API Asp.Net 4.6
 * Unit test project using Moq
 
