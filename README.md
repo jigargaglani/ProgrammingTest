@@ -1,4 +1,4 @@
-# ProgrammingTest
+# ProgrammingTest using visual studio 2017
 
 * Design Pattern - reposotory & unit of work pattern.
 * ORM - Entity Framework Code first
@@ -12,3 +12,5 @@ Created a generic Repository class that implements generic IRepository interface
 Created a UnitOfWork specific to this application with DBContext that connects to underlying database using EF code first approach.
 Web API controller (StudentController) consists of basic Http rest methods to get list of students and create new student
 The front end is binded with the server using Angular JS 1.6
+
+#### P.S. - The repository didn't fetch unit test project will attach it in the email ####
